@@ -1,4 +1,8 @@
 # CutFaceLocalArea
 CutFaceLocalArea切割面部局部区域
 
-同样用到
+同样用到shape_predictor_68_face_landmarks.dat文件
+
+在qq邮箱里有shape_predictor_68_face_landmarks.dat文件，2022.10.2这天：切割面部局部区域
+
+shape_predictor_68_face_landmarks.dat文件是和这些py文件同级目录。
